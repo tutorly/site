@@ -1,4 +1,4 @@
-# Tutorly-Website
+# tutorly.app
 Source code for the tutorly website. Live now at [tutorly](https://www.tutorly.app)
 
 # Website Licensing
