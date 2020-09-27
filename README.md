@@ -1,7 +1,7 @@
 # Tutorly
 Source code for the tutorly website. Live now at [https://www.tutorly.app](https://www.tutorly.app)
 
-# Website Licensing
+# Licensing
 This website is a template from [colorlib](https://colorlib.com) that is [licensed](https://colorlib.com/wp/licence/) under a Creative
 Commons Attribution 3.0 License which means:
 
