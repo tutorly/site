@@ -1,5 +1,5 @@
-# tutorly
-Source code for the tutorly website. Live now at [tutorly](https://www.tutorly.app)
+# Tutorly
+Source code for the tutorly website. Live now at [https://www.tutorly.app](https://www.tutorly.app)
 
 # Website Licensing
 This website is a template from [colorlib](https://colorlib.com) that is [licensed](https://colorlib.com/wp/licence/) under a Creative
@@ -15,7 +15,3 @@ It also means that we must comply with the following limitations:
 - We are not allowed to remove the copyright credit from the footer.
 - We are not allowed to sell, resale, rent, and lease our template.
 - Colorlib will not provide any technical support for free HTML templates.
-
-# TODO
-- fix contact page so that it actually sends emails (github pages doesn't allow PHP 
-so we should use javascript and open the user's default mail server)
